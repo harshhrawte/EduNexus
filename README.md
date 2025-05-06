@@ -27,4 +27,4 @@ EduNexis is an AI chatbot built specifically for educational purposes. It assist
 
 ```bash
 git clone https://github.com/harshhrawte/EduNexis.git
-cd edunexis
+cd EduNexis
